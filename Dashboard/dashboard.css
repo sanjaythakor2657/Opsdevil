@@ -85,7 +85,9 @@ header p {
   border-radius: 8px;
   flex: 1;
   min-width: 200px;
+  justify-content: center;
   text-align: center;
+  align-items: center;
 }
 
 .card h3 {
